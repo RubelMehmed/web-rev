@@ -11,7 +11,7 @@ const Navigation = () => {
     return (
         <Navbar bg="dark" variant="dark" >
         <Container>
-        <Navbar.Brand to="/home">Min Academy</Navbar.Brand>
+        <Navbar.Brand to="/home">Web-Reb Academy</Navbar.Brand>
         <Nav className="me-auto" >
           <NavLink style={navStyle}  activeStyle={{
     fontWeight: "bold",
